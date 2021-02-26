@@ -1,6 +1,6 @@
 {
   "name": "eff-pre",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "An efficient Proxy Re-encryption library in JavaScript without pairing.",
   "main": "eff-pre.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "license": "BSD-3-Clause",
   "dependencies": {
-    "mcl-wasm": "^0.3.7"
+    "mcl-wasm": "^0.7.3"
   },
   "keywords": [
     "proxy re-encryption",
